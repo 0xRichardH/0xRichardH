@@ -1,10 +1,5 @@
 ### Hey there 👋
 
-<iframe width="560" height="315" style="background:#f9f9f9;"
-  src="https://nomadlist.com/@haoxilu/embed" scrolling="no"
-  frameborder="0" allowfullscreen="">
-</iframe>
-
 <!--
 **haoxilu/haoxilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
