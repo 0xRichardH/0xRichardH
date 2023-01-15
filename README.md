@@ -6,6 +6,8 @@
 /> 💻
 ```
 
+<a href="https://app.daily.dev/0x4richard"><img src="https://github.com/0x4richard/0x4richard/blob/master/devcard.svg" width="400" alt="Richard H's Dev Card"/></a>
+
 <!--
 **haoxilu/haoxilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
