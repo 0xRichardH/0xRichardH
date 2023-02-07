@@ -20,4 +20,4 @@
 
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats-for-richard.vercel.app/api/top-langs/?username=0x4richard&layout=compact)](https://github.com/0x4richard)
+[![Top Langs](https://github-readme-stats.0xdev.dev/api/top-langs/?username=0x4richard&layout=compact)](https://github.com/0x4richard)
