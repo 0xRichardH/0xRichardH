@@ -16,8 +16,8 @@
 
 ## Dev Card
 
-<a href="https://app.daily.dev/0x4richard"><img src="https://github.com/0x4richard/0x4richard/blob/master/devcard.svg" width="300" alt="Richard H's Dev Card"/></a>
+<a href="https://app.daily.dev/richard"><img src="https://github.com/0x4richard/0x4richard/blob/master/devcard.svg" width="300" alt="Richard H's Dev Card"/></a>
 
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats.0xdev.dev/api/top-langs/?username=0x4richard&layout=compact)](https://github.com/0x4richard)
+[![Top Langs](https://github-readme-stats-for-richard.vercel.app/api/top-langs/?username=0x4richard&layout=compact)](https://github.com/0x4richard)
