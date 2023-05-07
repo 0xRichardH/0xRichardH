@@ -21,3 +21,7 @@
 ## Github Stats
 
 [![Top Langs](https://github-readme-stats.0xdev.dev/api/top-langs/?username=0x4richard&layout=compact&langs_count=6)](https://github.com/0x4richard)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0x4richard/0x4richard/output/github-contribution-grid-snake.svg" />
+</p>
