@@ -17,6 +17,15 @@
 ## Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+Solidity     2 hrs 3 mins    ██████████▓░░░░░░░░░░░░░░   43.16 %
+Go           1 hr 6 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
+TypeScript   40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+Markdown     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Docker       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Github Stats
