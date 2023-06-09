@@ -1,4 +1,4 @@
-# 0x4richard.eth | 🐰
+# 0x4richard.eth | 🐰🐶
 
 ### Software Developer
 
