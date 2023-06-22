@@ -30,6 +30,8 @@ Go           34 mins         █▓░░░░░░░░░░░░░░░
 
 ## Github Stats
 
+[![Contribution languages](https://richard.0xdev.dev/widgets/contribution-most-used-languages/thumbnail.png)](https://richard.0xdev.dev/widgets/contribution-most-used-languages)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/0x4richard/0x4richard/output/github-contribution-grid-snake.svg" />
 </p>
