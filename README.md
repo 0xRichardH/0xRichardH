@@ -32,11 +32,7 @@ Bash             4 mins          ▒░░░░░░░░░░░░░░�
 
 [![Contribution languages](https://richard.0xdev.dev/widgets/contribution-most-used-languages/thumbnail.png)](https://richard.0xdev.dev/widgets/contribution-most-used-languages)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/0x4richard/0x4richard/output/github-contribution-grid-snake.svg" />
-</p>
-
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x4richard/0x4richard/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x4richard/0x4richard/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0x4richard/0x4richard/output/github-contribution-grid-snake.svg">
