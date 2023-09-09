@@ -1,4 +1,4 @@
-# 0x4richard.eth | 🐰🐶
+# Richard Hao | 🐰🐶
 
 ### Software Developer
 
@@ -6,7 +6,7 @@
 
 <a aligh="left" href="https://0xdev.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:richard@0xdev.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/0x4richard" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/haoxilu" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://discord.com/user/0x4richard#3944" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/discord.svg" alt="Discord" width="22" height="22" /></a>
 
-⚐ Based in 0xWeb
+⚐ Based in 0xDev
 
 ϟ Currently Learning and Buidling
 
