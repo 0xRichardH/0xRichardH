@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Crontab          35 mins         █████████░░░░░░░░░░░░░░░░   36.20 %
-Markdown         15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
-ActionScript 3   15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
-YAML             13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-fish             11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
