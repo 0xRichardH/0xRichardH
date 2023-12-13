@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         38 hrs 57 mins  ███████████████████▓░░░░░   78.50 %
-Lua          3 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-sh           2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-hurl         1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Makefile     45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
