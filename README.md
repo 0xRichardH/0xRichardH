@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         7 hrs 53 mins   █████████████▒░░░░░░░░░░░   52.74 %
-Lua          1 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-JavaScript   1 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Markdown     0 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Makefile     0 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Rust         9 hrs 50 mins   ██████████████▓░░░░░░░░░░   58.44 %
+Lua          1 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+JavaScript   1 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Markdown     0 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Makefile     0 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
