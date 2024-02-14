@@ -24,11 +24,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-unknown    0 hrs 48 mins   █████████████████████░░░░   84.20 %
-JSON       0 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-Markdown   0 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-json       0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-YAML       0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+unknown    0 hrs 37 mins   ███████████████████████▓░   95.09 %
+Markdown   0 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 ```
 
 <!--END_SECTION:waka-->
