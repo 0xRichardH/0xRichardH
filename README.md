@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   5 hrs 24 mins   ██████████████▓░░░░░░░░░░   58.43 %
-Ruby       2 hrs 45 mins   ███████▒░░░░░░░░░░░░░░░░░   29.73 %
-unknown    0 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-Python     0 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Makefile   0 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Markdown   3 hrs 53 mins   █████████████████▒░░░░░░░   69.58 %
+unknown    0 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
+Ruby       0 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+Python     0 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Makefile   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
