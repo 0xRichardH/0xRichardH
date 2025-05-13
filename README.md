@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TSX            5 hrs 2 mins    ██████████▒░░░░░░░░░░░░░░   40.87 %
-Python         2 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
-python         1 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-TypeScript     1 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-typescript     0 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+TSX            5 hrs 2 mins    ██████████░░░░░░░░░░░░░░░   40.53 %
+Python         2 hrs 39 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
+TypeScript     1 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+python         1 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+Markdown       0 hrs 37 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
 ```
 
 <!--END_SECTION:waka-->
