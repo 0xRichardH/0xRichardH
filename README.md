@@ -24,10 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-python     0 hrs 0 mins    █████████████████████████   100.00 %
-TSX        0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-yaml       0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-markdown   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+yaml   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
