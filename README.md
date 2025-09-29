@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash        0 hrs 22 mins   █████████▒░░░░░░░░░░░░░░░   37.20 %
+TOML        0 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   23.80 %
+JSON        0 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   19.97 %
+INI         0 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+hyprlang    0 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
 ```
 
 <!--END_SECTION:waka-->
