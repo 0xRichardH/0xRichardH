@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         1 hrs 55 mins   ██████████████▓░░░░░░░░░░   58.90 %
-Python       0 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
-Typescript   0 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
-Hyprlang     0 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Makefile     0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Ruby         1 hrs 55 mins   █████████████████▒░░░░░░░   68.76 %
+Typescript   0 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
+Hyprlang     0 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Makefile     0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Bash         0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
