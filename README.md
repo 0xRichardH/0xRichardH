@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash        0 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   46.91 %
-Python      0 hrs 1 mins    ████████▒░░░░░░░░░░░░░░░░   32.99 %
-Conf        0 hrs 1 mins    █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-Json        0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Sshconfig   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
