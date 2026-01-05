@@ -11,7 +11,9 @@
 ϟ Currently Learning and Buidling
 
  ## Skills
-   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/rust.svg" alt="Rust" width="25" height="25" /></a>
+   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/typescript.svg" alt="TypeScript" width="25" height="25" /></a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a>
+    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/rust.svg" alt="Rust" width="25" height="25" /></a>
    <a href="" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/go.svg" alt="Go" width="25" height="25" /></a>
    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/ruby.svg" alt="Ruby" width="25" height="25" /></a>
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a>
