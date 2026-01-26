@@ -1,4 +1,4 @@
-# Richard Hao | 🐰🐶
+# Richard Hao | 🐶🐰🐵
 
 ### Software Developer
 
