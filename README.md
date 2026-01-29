@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     5 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.34 %
-Json         2 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-Typescript   2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-Python       1 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-Unknown      1 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Markdown     5 hrs 30 mins   ███████▒░░░░░░░░░░░░░░░░░   29.50 %
+Json         3 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+Typescript   2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Python       1 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Docker       1 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
 ```
 
 <!--END_SECTION:waka-->
