@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Json       2 hrs 41 mins         ████████████░░░░░░░░░░░░░   47.75 %
-Markdown   1 hrs 43 mins         ███████▓░░░░░░░░░░░░░░░░░   30.48 %
-Docker     0 hrs 20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Unknown    0 hrs 15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Hyprlang   0 hrs 14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Json       2 hrs 41 mins         ████████████▒░░░░░░░░░░░░   49.88 %
+Markdown   1 hrs 33 mins         ███████▒░░░░░░░░░░░░░░░░░   28.72 %
+Docker     0 hrs 20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Hyprlang   0 hrs 14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Unknown    0 hrs 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
